@@ -27,3 +27,6 @@ The model simulates:
 ## Research Context
 
 This model was developed as part of research on dynamic hydrogen energy systems and flexible energy operation.
+
+## Author
+Iraj Moradpoor
